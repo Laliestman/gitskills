@@ -1,2 +1,1 @@
-# gitskillsCreating a new branch is quick
-Creating a new branch is quick & simple
+Crating a new brach is quick and simple.
